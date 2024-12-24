@@ -1,1 +1,3 @@
-# pharmaceutical_Sales_Analysis
+### pharmaceutical_Sales_Analysis
+
+![](pharmdashboard.png)
