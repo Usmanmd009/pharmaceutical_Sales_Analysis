@@ -64,11 +64,9 @@ primary key, and each primary key is in the sales data table, therefore relation
 
 - Total number of distributors 254k.
 
-  . 
+- Top 4 sales team. Delta has the highest sales with 363,534,1332
 
-- Rusian has the highest suicides rate followed by United state and Japan.
-
-- The age group of 35-54 has the highest suicide rate while the age group of 5-14 has the least suicide rate.
+- 
 
 
 
