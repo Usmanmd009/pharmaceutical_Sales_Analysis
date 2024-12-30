@@ -64,11 +64,11 @@ primary key, and each primary key is in the sales data table, therefore relation
 
 - Total number of distributors 254k.
 
-- Top 4 sales team. Delta has the highest sales with 363,534,1332
+- Top 4 sales team: Delta has the highest sales with 363,534,1332
 
-- 
+- Sales by sub-channel: Retail has the highest sales with about 28.33% of the total sales recorded.
 
-
+- Sales by country: Germany has the total sales with about 96% of the total sales 
 
 
 ## Conclusions And Recommendations
